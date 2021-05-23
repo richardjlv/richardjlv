@@ -21,10 +21,10 @@
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react_native%20-%23358CC1.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/redux-%23764abc.svg?&style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/typescript-%2300499A.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
 
 <h4>🌱 I'm currently learning...</h4>
 <p>
   <img src="https://img.shields.io/badge/laravel-%23D14836.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/typescript-%2300499A.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/adonis-%23220052.svg?&style=for-the-badge&logo=adonisjs&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
