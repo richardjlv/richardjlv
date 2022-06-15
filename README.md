@@ -4,7 +4,7 @@
     Hello everyone! 👋
 </h4>
 <h4>
-    I'm a Full Stack Developer 👨‍💻.
+    I'm a Front-end Developer 👨‍💻.
 </h4>
 <h5>
     📌  Living in <b>Brasilia</b>, <b>Federal District</b>, <b>Brazil</b>  
